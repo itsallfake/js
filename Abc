@@ -13,18 +13,18 @@ echo " $Green $bold 4.) VN"
 echo " "
 echo "  $bold 2 "
 echo " "
-toilet -f future Global PUBG | lolcat
+toilet -f smmono9 Global PUBG | lolcat
 echo " "
 toilet Activating Antiban -f wideterm | lolcat
 echo " "
-toilet Launching PUBG GL -f wideterm | lolcat
+toilet >>Launching PUBG GL... -f wideterm | lolcat
 echo " "
-echo " ${bold}Cleaning Logs and residue Files in Background "
+echo " ${bold}>>Cleaning Logs and residue Files in Background "
 echo " "
-echo " ${bold}Total Play Time = 4h 34m "
+echo " ${bold}>>Total Play Time = 4h 34m "
 echo " "
-toilet Restoring Original State -f wideterm | lolcat
+toilet >>Restoring Original State -f wideterm | lolcat
 echo " "
 echo " ${bold} Restore Complete "
 echo " "
-toilet Contact TG : @BabaBhayanak if any issue -f wideterm | lolcat
+toilet Contact TG : @BabaBhayanak if any issue -f term | lolcat
