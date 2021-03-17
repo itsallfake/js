@@ -4,6 +4,7 @@ red=$(tput setf 1)
 Green=$(tput setf 6)
 toilet -f pagga Offensive Hacks | lolcat
 echo " "
+screenfetch | lolcat
 echo " "
 echo " $red $bold Choose Option : "
 echo " $Green $bold 1.) KR"
@@ -11,7 +12,7 @@ echo " $Green $bold 2.) GL"
 echo " $Green $bold 3.) TW"
 echo " $Green $bold 4.) VN"
 echo " "
-echo "  $bold 2 "
+echo "  $bold >> 2 "
 echo " "
 toilet -f smmono9 Global PUBG | lolcat
 echo " "
